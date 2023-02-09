@@ -1,0 +1,111 @@
+
+1,email : admin@mbcash.org
+
+2, subject : MCash Exchange - MBCASH - Add exchange
+
+3, Launching date : February 1, 2022
+
+4, Project Name : MCash Exchange
+
+5 , Previous Names/Aliases (Type 'NA' if not applicable)(optional) : NA
+
+6 , Relationship with the Project : 
+Hi, I am Ansarul Mulla, I am influencer and Founder of "MCash Exchange" Project , My position in this project is a CEO,
+The Team and myself have been working on this project since 2022 and have created it from scratch,
+I am a real person ; my social media link twitter https://twitter.com/ansarul5430 and
+Facebook https://www.facebook.com/Ansarul.haque.mulla/
+
+7, Project Description (Exchanges) :
+MCash Excahnge is a global Crypto Currency Exchange service provider,
+MCash Exchange Launch 2022 for globally trading all kinds of Crypto asset ,
+We are giving services 24 hours from launching to yet
+and 
+Crypto Currency Wallet Service provider https://coinbiten.com
+
+8 , Unique Features :
+MCash Exchange is a Centralised Exchange We are keeping users privacy 
+our Exchange is a easy to use and very secure we don't disclose user information
+
+9, API documentation : https://mbcash.org/api-details 
+
+10 , Platform of Contract Address 1 : Optional
+
+11, Five (5) API Endpoint URLs (Please see: https://tinyurl.com/y2hj58pd) :
+
+Api Docs Here : https://mbcash.org/api-details ,
+GET All Currency : https://apps.mbcash.org/api/v1/currency ,
+GET One Currency : https://apps.mbcash.org/api/v1/currency/one?coin_id=mbcash ,
+Endpoint 1 - / Market Summary : GET https://apps.mbcash.org/api/v1/summary ,
+Endpoint 2 - /tickers (Market Info) : GET https://apps.mbcash.org/api/v1/tickers ,
+Get One specified Market : GET https://apps.mbcash.org/api/v1/ticker?ticker_id=MBCASH_ETH ,
+Endpoint 3 - /orderbook (Order book depth details) : GET https://apps.mbcash.org/api/v1/orderbook/?ticker_id=MBCASH_ETH&depth=0 ,
+Endpoint 4 - /historical_trades (Historical Data) : GET https://apps.mbcash.org/api/v1/historical_trades/?ticker_id=MBCASH_ETH&limit=0
+
+12, Trading Volume/liquidity : 
+https://nomics.com/exchanges/mcash ,
+https://livecoinwatch.com/exchange/mbcash ,
+https://coinpaprika.com/exchanges/mcash-exchange/
+
+13 , Traction/Adoption/Partnerships/MVPs/Apps :
+At This moment we don't have any enterprise business we are giving only Excahnge and Wallet Online base service
+
+14 , Community Engagement:
+We are working to development big community on our platform day by day
+
+15, Team/Backers/Investors :
+This is our internal team page : https://mbcash.org/team
+
+16 , Terms of Service URL : https://mbcash.org/terms
+
+17 , Geographical focus : MCash Excahnge team we are working to development more more globally to expose all kinds of users
+
+18, Country of Origin (where majority of team is located) : 
+
+19 , Fiat Deposits (please specify the fiat pairs; Stablecoins [e.g. USDT] are NOT classified as fiat) : NA
+
+20, Fiat Withdrawals (please specify the fiat pairs; Stablecoins [e.g. USDT] are NOT classified as fiat) : NA
+
+21 , Website URL (Ability to view ALL market pairs and order books without the need to log-in) : https://mbcash.org
+
+22, Logo Link : https://apps.mbcash.org/storage/app/logo/logo.png
+
+23 , Trading Fee Structure : https://mbcash.org/fees
+
+24, System status URL that shows all coin listings/details : https://mbcash.org/asset
+
+25, support email : support@mbcash.org
+
+26, Twitter : https://twitter.com/MBCash3
+
+27, Chat 1 (e.g. Discord, Telegram, Slack, Weibo). : https://t.me/mcashexchange , https://t.me/mcashex
+
+28, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
